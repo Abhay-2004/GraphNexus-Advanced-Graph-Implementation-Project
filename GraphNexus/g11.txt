@@ -1,0 +1,7 @@
+4
+A B 1
+A C 2
+A D 3
+B C 4
+B D 5
+C D 6
