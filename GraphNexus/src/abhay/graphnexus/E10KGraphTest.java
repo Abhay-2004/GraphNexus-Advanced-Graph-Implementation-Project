@@ -1,4 +1,4 @@
-package Abhay.GraphNexus;
+package abhay.graphnexus;
 
 import java.util.*;
 import java.util.concurrent.TimeUnit;
