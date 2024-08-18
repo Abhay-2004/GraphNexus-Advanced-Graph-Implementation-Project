@@ -82,7 +82,7 @@ Developed as a personal project to explore the intricacies of graph theory and a
 From a file:
 
 ```java
-Graph g = new GraphNexus();
+Graph g = new Graph();
 g.load("path/to/graph/file.txt");
 ```
 
